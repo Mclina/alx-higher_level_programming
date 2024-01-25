@@ -17,6 +17,6 @@ print("{} = {}".format(roman_number, roman_to_int(roman_number)))
 
 roman_number = "DCCVII"
 print("{} = {}".format(roman_number, roman_to_int(roman_number)))
-
-roman_number = "DDCCCCX"
-print("{} = {}".format(roman_number, roman_to_int(roman_number))
+print("****************")
+print("{} = {}".format("I", roman_to_int("I")))
+print("{} = {}".format("MMMCMXCIX", roman_to_int("MMMCMXCIX")))
